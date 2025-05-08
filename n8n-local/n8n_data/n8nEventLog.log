@@ -1,0 +1,2 @@
+{"__type":"$$EventMessageAudit","id":"51758bfe-7801-478b-abd7-cbe304eff293","ts":"2025-05-08T17:18:33.908+00:00","eventName":"n8n.audit.workflow.updated","message":"n8n.audit.workflow.updated","payload":{"userId":"db907156-c10a-4e8f-bd52-adcbd995951f","_email":"expbilal@gmail.com","_firstName":"Muhammad","_lastName":"Bilal","globalRole":"global:owner","workflowId":"B82x2SliHZwUJ8b3","workflowName":"My workflow"}}
+{"__type":"$$EventMessageConfirm","confirm":"51758bfe-7801-478b-abd7-cbe304eff293","ts":"2025-05-08T17:18:33.918+00:00","source":{"id":"0","name":"eventBus"}}
